@@ -22,7 +22,7 @@
     "@ngx-pwa/local-storage": "^8.2.3",
     "cookieconsent": "^3.1.1",
     "fullcalendar": "^3.10.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "moment": "^2.24.0",
     "ngx-cookie-service": "^2.2.0",
     "ngx-cookieconsent": "^2.2.3",
